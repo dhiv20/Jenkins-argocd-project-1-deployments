@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: todo-app
-    image: abhishekf5/todoapp:v1
+    image: d2bdocker/cicd-e2e:v1
     ports:
     - containerPort: 8000
